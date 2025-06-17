@@ -5,16 +5,15 @@
     background: #f1f1f1;
   }     
   
-title{
-    text-align: center;
-}
-
-
 
   .input-area {
     display: flex;
     gap: 10px;
     margin-bottom: 10px;
+  }
+
+  h1{
+    text-align: center;
   }
   .input-area input[type="text"] {
     flex: 1;
